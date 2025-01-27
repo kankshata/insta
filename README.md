@@ -6,17 +6,17 @@ Steps to Access the Project:
 1.To get started, clone the repository to your local machine using the following command:
      git clone https://github.com/kankshata/insta_scrapper.git
     
- 2. Navigate to the Project Folder: Once the repository is cloned, navigate to the project folder:
+2. Navigate to the Project Folder: Once the repository is cloned, navigate to the project folder:
    cd insta_scrapper
    
- 3. Install Dependencies: Before running the project, make sure you have Node.js installed. Then, install the required dependencies by running:
+3. Install Dependencies: Before running the project, make sure you have Node.js installed. Then, install the required dependencies by running:
    npm install
    
  4.Running the Project: After the dependencies are installed, you can run the project with the following command:
   node instagram_scrapper.js:
 
  
- Input Instructions: When you run the script, it will ask you to input either an Instagram profile URL or a post URL. Depending on the URL type, it will scrape the appropriate data:
+Input Instructions: When you run the script, it will ask you to input either an Instagram profile URL or a post URL. Depending on the URL type, it will scrape the appropriate data:
 
 For Profile URL: It will scrape the profile's followers and following data.
 For Post URL: It will scrape the likes and comments of the post.
