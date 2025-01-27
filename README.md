@@ -1,17 +1,18 @@
- The project is hosted on GitHub, and you can access it by following the instructions below.
+The project is hosted on GitHub, and you can access it by following the instructions below.
 
 Steps to Access the Project:
-Clone the Repository:
+
+
 1.To get started, clone the repository to your local machine using the following command:
      git clone https://github.com/kankshata/insta_scrapper.git
     
-2. Navigate to the Project Folder: Once the repository is cloned, navigate to the project folder:
+ 2. Navigate to the Project Folder: Once the repository is cloned, navigate to the project folder:
    cd insta_scrapper
    
-3. Install Dependencies: Before running the project, make sure you have Node.js installed. Then, install the required dependencies by running:
+ 3. Install Dependencies: Before running the project, make sure you have Node.js installed. Then, install the required dependencies by running:
    npm install
    
-4.Running the Project: After the dependencies are installed, you can run the project with the following command:
+ 4.Running the Project: After the dependencies are installed, you can run the project with the following command:
   node instagram_scrapper.js:
 
  
